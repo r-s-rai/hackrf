@@ -15,6 +15,4 @@ This repository contains GNU Radio files for the Record and Replay attacks.
 4. After capturing the data, open `replay.grc` and change `File Source` node to point to the captured data. 
 
 
-# Paper
-
 
